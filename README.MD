@@ -13,3 +13,4 @@ Saat aku masuk CLuster 4, aku mendapatkan banyak koneksi dan teman baru. Kakak-k
 
 ## Harapan Kuliah
 Aku harap dengan berkuliah di FILKOM ini dapat membangun hard skill dan soft skill baru yang dapat bermanfaat buatku nanti. 
+https://roadmap.sh/projects/single-page-cv
